@@ -33,6 +33,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 
 ## **Power BI Dashboard Visualization**
+![image_alt]( )
 
 The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%.
 It showcases the trend of Sales and Profit for each month, the Category-wise Profits and Sales, Sales by States, top customers and Category-wise Sales%. Additionally, the top 5 sub-categories by Sales are also displayed. The dashboard includes filters like years, regions, and segments.
